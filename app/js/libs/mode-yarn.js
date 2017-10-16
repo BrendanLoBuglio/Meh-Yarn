@@ -16,7 +16,7 @@ var YarnHighlightRules = function() {
             },
             {
                 token: "paren.lcomm",
-                regex: "<<",
+                regex: "(<<|{{)",
                 next: "comm"
             },
             {
@@ -51,7 +51,7 @@ var YarnHighlightRules = function() {
             },
             {
                 token: "paren.rcomm",
-                regex: ">>",
+                regex: "(>>|}})",
                 next: "start"
             }
         ]
