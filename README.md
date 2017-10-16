@@ -1,3 +1,6 @@
+#Meh-Yarn
+This is a fork of the Yarn editor containing functionality used in the game My Electric Heart. Below is the original README.md from that repo 
+
 # Yarn
 
 Dialogue editor created for "Night in the Woods" (and other projects) by @NoelFB and @infinite_ammo with contributions from @seiyria and @beeglebug. It is heavily inspired by and based on the amazing Twine software: http://twinery.org/
